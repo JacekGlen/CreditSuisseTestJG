@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VirtualCashCard", "VirtualCashCard\VirtualCashCard.csproj", "{D30FA2CC-EA32-407E-A548-4E8FE1638641}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualCashCard.Tests", "VirtualCashCard.Tests\VirtualCashCard.Tests.csproj", "{017D7D93-53F5-482A-8DE0-0CC0559A9C4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D30FA2CC-EA32-407E-A548-4E8FE1638641}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D30FA2CC-EA32-407E-A548-4E8FE1638641}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D30FA2CC-EA32-407E-A548-4E8FE1638641}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D30FA2CC-EA32-407E-A548-4E8FE1638641}.Release|Any CPU.Build.0 = Release|Any CPU
+		{017D7D93-53F5-482A-8DE0-0CC0559A9C4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{017D7D93-53F5-482A-8DE0-0CC0559A9C4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{017D7D93-53F5-482A-8DE0-0CC0559A9C4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{017D7D93-53F5-482A-8DE0-0CC0559A9C4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1661BE59-5450-45A8-AB5C-B2A2D66A029E}
+	EndGlobalSection
+EndGlobal
